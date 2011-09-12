@@ -1,0 +1,3 @@
+﻿<h2>Index 2</h2>
+ID: <%:model["id"]%><br />
+Name: <%:model.name%><br />

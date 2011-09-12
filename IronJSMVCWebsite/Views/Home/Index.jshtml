@@ -1,0 +1,9 @@
+﻿<h2>Index</h2>
+<p>
+  ASP.NET MVC, DLR and IronJS are all awesome!! So, let's combine them together!
+</p>
+<p>
+ID: <%:model.id%><br />
+Name: <%:model["name"]%><br />
+3 * 11 = <%: 11 * 3 %><br/>
+</p>

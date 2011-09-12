@@ -1,0 +1,10 @@
+E:\Test\IronJS\IronJSMVC\IronJSMVCWebsite\bin\IronJSMVCWebsite.dll
+E:\Test\IronJS\IronJSMVC\IronJSMVCWebsite\bin\IronJSMVCWebsite.pdb
+E:\Test\IronJS\IronJSMVC\IronJSMVCWebsite\bin\EntityFramework.dll
+E:\Test\IronJS\IronJSMVC\IronJSMVCWebsite\bin\IronJSMVC.dll
+E:\Test\IronJS\IronJSMVC\IronJSMVCWebsite\bin\IronJS.dll
+E:\Test\IronJS\IronJSMVC\IronJSMVCWebsite\bin\IronJSMVC.pdb
+E:\Test\IronJS\IronJSMVC\IronJSMVCWebsite\bin\EntityFramework.xml
+E:\Test\IronJS\IronJSMVC\IronJSMVCWebsite\obj\Debug\ResolveAssemblyReference.cache
+E:\Test\IronJS\IronJSMVC\IronJSMVCWebsite\obj\Debug\IronJSMVCWebsite.dll
+E:\Test\IronJS\IronJSMVC\IronJSMVCWebsite\obj\Debug\IronJSMVCWebsite.pdb
