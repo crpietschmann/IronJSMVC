@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("IronJSMVC")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("https://github.com/crpietschmann/IronJSMVC")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Chris Pietschmann")]
 [assembly: AssemblyProduct("IronJSMVC")]
