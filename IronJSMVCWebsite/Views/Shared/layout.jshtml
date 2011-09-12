@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>IronJS on ASP.NET MVC Demo</title>
+    <link rel="stylesheet" type="text/css" href="/content/site.css" media="screen" />
+</head>
+<body>
+    <div class="page">
+        <div id="header">
+            <div id="title">
+                <h1>IronJSMVC Demo</h1>
+            </div>
+            <div id="logindisplay">
+                [LogOn]
+                <!--% Html.RenderPartial("LogOnUserControl"); %-->
+            </div> 
+            <div id="menucontainer">
+                <ul id="menu">
+                    <li><%= html.actionLink("Home", "Index", "Home") %></li>
+                    <!--
+                    <li><%= html.actionLink("Index2", "Index2", "Home", { id: '###' }) %></li>
+                    <li><%= html.actionLink("Index3", "Index3") %></li>
+                    <li><%= html.actionLink("Index4", "Index4") %></li>
+                    <li><%= html.actionLink("Index5", "Index5") %></li>
+                    <li><%= html.actionLink("Index6", "Index6") %></li>
+                    -->
+                </ul>
+            </div>
+        </div>
+        <div id="main">
+            
+            <% render_page(); %>
+
+            <div id="footer">[SITE FOOTER]</div>
+        </div>
+    </div>
+</body>
+</html>
