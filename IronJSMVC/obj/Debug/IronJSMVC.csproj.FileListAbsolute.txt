@@ -4,3 +4,9 @@ E:\Test\IronJS\IronJSMVC\IronJSMVC\bin\Debug\IronJS.dll
 E:\Test\IronJS\IronJSMVC\IronJSMVC\obj\Debug\ResolveAssemblyReference.cache
 E:\Test\IronJS\IronJSMVC\IronJSMVC\obj\Debug\IronJSMVC.dll
 E:\Test\IronJS\IronJSMVC\IronJSMVC\obj\Debug\IronJSMVC.pdb
+E:\OpenSourceProjects\IronJSMVC\IronJSMVC\obj\Debug\ResolveAssemblyReference.cache
+E:\OpenSourceProjects\IronJSMVC\IronJSMVC\obj\Debug\IronJSMVC.pdb
+E:\OpenSourceProjects\IronJSMVC\IronJSMVC\bin\Debug\IronJSMVC.dll
+E:\OpenSourceProjects\IronJSMVC\IronJSMVC\bin\Debug\IronJSMVC.pdb
+E:\OpenSourceProjects\IronJSMVC\IronJSMVC\bin\Debug\IronJS.dll
+E:\OpenSourceProjects\IronJSMVC\IronJSMVC\obj\Debug\IronJSMVC.dll

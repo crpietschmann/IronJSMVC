@@ -11,6 +11,7 @@ namespace IronJSMVC
     {
         protected override IActionInvoker CreateActionInvoker()
         {
+            //return base.CreateActionInvoker();
             return new IronJSControllerActionInvoker();
         }
     }

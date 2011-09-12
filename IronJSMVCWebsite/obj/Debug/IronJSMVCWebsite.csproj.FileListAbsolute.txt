@@ -8,3 +8,13 @@ E:\Test\IronJS\IronJSMVC\IronJSMVCWebsite\bin\EntityFramework.xml
 E:\Test\IronJS\IronJSMVC\IronJSMVCWebsite\obj\Debug\ResolveAssemblyReference.cache
 E:\Test\IronJS\IronJSMVC\IronJSMVCWebsite\obj\Debug\IronJSMVCWebsite.dll
 E:\Test\IronJS\IronJSMVC\IronJSMVCWebsite\obj\Debug\IronJSMVCWebsite.pdb
+E:\OpenSourceProjects\IronJSMVC\IronJSMVCWebsite\obj\Debug\ResolveAssemblyReference.cache
+E:\OpenSourceProjects\IronJSMVC\IronJSMVCWebsite\obj\Debug\IronJSMVCWebsite.pdb
+E:\OpenSourceProjects\IronJSMVC\IronJSMVCWebsite\bin\IronJSMVCWebsite.dll
+E:\OpenSourceProjects\IronJSMVC\IronJSMVCWebsite\bin\IronJSMVCWebsite.pdb
+E:\OpenSourceProjects\IronJSMVC\IronJSMVCWebsite\bin\EntityFramework.dll
+E:\OpenSourceProjects\IronJSMVC\IronJSMVCWebsite\bin\IronJSMVC.dll
+E:\OpenSourceProjects\IronJSMVC\IronJSMVCWebsite\bin\IronJS.dll
+E:\OpenSourceProjects\IronJSMVC\IronJSMVCWebsite\bin\IronJSMVC.pdb
+E:\OpenSourceProjects\IronJSMVC\IronJSMVCWebsite\bin\EntityFramework.xml
+E:\OpenSourceProjects\IronJSMVC\IronJSMVCWebsite\obj\Debug\IronJSMVCWebsite.dll

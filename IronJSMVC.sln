@@ -6,6 +6,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronJSMVC", "IronJSMVC\IronJSMVC.csproj", "{39750D5A-C063-4B71-9133-A16B5B6C4A8F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CD6215EC-BF98-46B4-AE93-BB0D80C4168D}"
+<<<<<<< HEAD
+=======
+	ProjectSection(SolutionItems) = preProject
+		TODO_IDEAS.txt = TODO_IDEAS.txt
+	EndProjectSection
+>>>>>>> 9545c1a77823a27a696258f7182d3045e7a08a82
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
