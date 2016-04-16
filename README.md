@@ -5,4 +5,4 @@ A simple example of using the IronJS javascript library for .NET Dynamics to set
 
 Articles:
 
-(IronJSMVC: Script ASP.NET MVC in JavaScript using IronJS)[http://pietschsoft.com/post/2012/01/21/IronJSMVC-Script-ASPNET-MVC-in-JavaScript-using-IronJS]
+[IronJSMVC: Script ASP.NET MVC in JavaScript using IronJS](http://pietschsoft.com/post/2012/01/21/IronJSMVC-Script-ASPNET-MVC-in-JavaScript-using-IronJS)
