@@ -1,7 +1,7 @@
 #IronJSMVC
 A simple example of using the IronJS javascript library for .NET Dynamics to setup an ASP.NET MVC app to support writing Models, Views and Controllers in JavaScript.
 
-
+![IronJSMVC Screenshot](IronJSMVCScreenshot.jpeg)
 
 Articles:
 
